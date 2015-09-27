@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HarryPotterQuiz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz_display">QuizDisplay</string>
+    <string name="title_activity_populate_db">populateDB</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_quiz_result">quizResult</string>
+</resources>
